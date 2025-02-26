@@ -102,7 +102,7 @@ Evaluation & Measurable Impact
 
 Contribution Guidelines
 
-We welcome contributions to further enhance AI-driven supply chain optimization. Please follow these guidelines:
+I welcome contributions to further enhance AI-driven supply chain optimization. Please follow these guidelines:
 
 Fork the repository and create a feature branch.
 
